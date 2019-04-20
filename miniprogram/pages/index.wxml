@@ -1,6 +1,18 @@
-<button type="primary">
-Hello
+<button class='myButton' type="primary" bindtap='myFunction'>
+  Hello
+</button>
+<text>
+  你好，小程序。
+  </text>
+<button type="primary" plain disabled>
+  Hello
 </button>
 <text>
   你好，小程序。
 </text>
+<button type="default" loading>
+  Hello
+</button>
+<button type="warn" size="mini">
+  Hello
+</button>

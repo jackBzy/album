@@ -1,1 +1,3 @@
-/* miniprogram/pages/index.wxss */
+.myButton{
+margin: 10px;
+}
